@@ -1,10 +1,13 @@
-### <div align="center">I'm Robert, a full-time Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" width="32"/></div>  
-  
+### <div align="center">I'm Robert, a full-time Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" height="32"/></div>  
+   
 
-- 💼 Currently working as Android Team Leader at <a href="http://yanosik.pl"><img src="https://store-images.s-microsoft.com/image/apps.64452.9007199266246507.496a208e-e5cb-4f57-bfad-e38254bf9348.0f9b4f35-0a32-4cdd-807c-95f37a3bd940?mode=scale&q=90&h=300&w=300" alt="drawing" width="16"/> Yanosik</a>  
+- 💼 Currently working as Android Team Leader at <a href="http://yanosik.pl"><img src="https://store-images.s-microsoft.com/image/apps.64452.9007199266246507.496a208e-e5cb-4f57-bfad-e38254bf9348.0f9b4f35-0a32-4cdd-807c-95f37a3bd940?mode=scale&q=90&h=300&w=300" alt="drawing" height="13"/> Yanosik</a>  
   
 - 💩 Doing some node.js web stuff as a hobby  
-  
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Kosert&&style=flat-square" align="left" />
+</div>  
 
 <br/>  
 
@@ -74,6 +77,4 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kosert&&style=flat-square" align="center" />
-</div>  
+
