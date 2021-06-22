@@ -13,7 +13,7 @@
 
 
 ## My Skill Set  
-<table cellspacing="0" cellpadding="0"><tr style="border: none;"><td valign="top" width="50%" style="border: none;">
+<table width="100%"><tr><td valign="top" width="50%">
 
 
 
@@ -25,7 +25,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td><td valign="top" width="50%" style="border: none;">
+</td><td valign="top" width="50%">
 
 
 
@@ -46,7 +46,7 @@
 
 
 ## Github Stats  
-<table style="overflow: hidden;"><tr style="overflow: hidden;"><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center" /></div>
 
