@@ -48,11 +48,11 @@
 ## Github Stats  
 <table style="overflow: hidden;"><tr style="overflow: hidden;"><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="left" />
 
 </td></tr></table>  
 
