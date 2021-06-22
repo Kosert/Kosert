@@ -1,4 +1,4 @@
-### <div align="center">I'm Robert, a full-time Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" height="32"/></div>  
+### <div align="center">Hi, I'm Robert, a full-time Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" height="32"/></div>  
    
 
 - 💼 Currently working as Android Team Leader at <a href="http://yanosik.pl"><img src="https://store-images.s-microsoft.com/image/apps.64452.9007199266246507.496a208e-e5cb-4f57-bfad-e38254bf9348.0f9b4f35-0a32-4cdd-807c-95f37a3bd940?mode=scale&q=90&h=300&w=300" alt="drawing" height="13"/> Yanosik</a>  
@@ -34,9 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
