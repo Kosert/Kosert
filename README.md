@@ -34,7 +34,7 @@
 ## Github Stats  
 
 <a href="https://github.com/Kosert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151514" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/Kosert">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
