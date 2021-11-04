@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Robert, a full-time Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" height="32"/></div>  
+### <div align="center">Hi, I'm Robert, an Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" height="32"/></div>  
    
 
 - 💼 Currently working as Android Engineer at <a href="https://www.egnyte.com"><img src="https://avatars.githubusercontent.com/u/1048598" height="13"/> Egnyte</a>
