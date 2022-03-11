@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Robert, an Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" height="32"/></div>  
    
 
-- 💼 Currently working as Android Engineer at <a href="https://www.egnyte.com"><img src="https://avatars.githubusercontent.com/u/1048598" height="13"/> Egnyte</a>
+- 💼 Currently working as Android Engineer for <a href="https://www.egnyte.com"><img src="https://avatars.githubusercontent.com/u/1048598" height="13"/> Egnyte</a>
 
 - 💼 Former Android Team Leader at <a href="http://yanosik.pl"><img src="https://store-images.s-microsoft.com/image/apps.64452.9007199266246507.496a208e-e5cb-4f57-bfad-e38254bf9348.0f9b4f35-0a32-4cdd-807c-95f37a3bd940?mode=scale&q=90&h=300&w=300" height="13"/> Yanosik</a>  
 
