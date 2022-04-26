@@ -5,7 +5,7 @@
 
 - 💼 Former Android Team Leader at <a href="http://yanosik.pl"><img src="https://store-images.s-microsoft.com/image/apps.64452.9007199266246507.496a208e-e5cb-4f57-bfad-e38254bf9348.0f9b4f35-0a32-4cdd-807c-95f37a3bd940?mode=scale&q=90&h=300&w=300" height="13"/> Yanosik</a>  
 
-- 💩 Doing some node.js web stuff as a hobby  
+- 💩 Doing some JavaScript stuff as a hobby  
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=Kosert&&style=flat-square" align="left" />
@@ -26,7 +26,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser-Logo-Small.png" alt="Phaser" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
