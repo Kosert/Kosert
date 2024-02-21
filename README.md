@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Robert, an Android Developer <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="drawing" height="32"/></div>  
    
 
-- 💼 Currently working as Android Engineer for <a href="https://www.egnyte.com"><img src="https://avatars.githubusercontent.com/u/1048598" height="13"/> Egnyte</a>
+- 💼 Currently working as Senior Android Engineer for <a href="https://www.egnyte.com"><img src="https://avatars.githubusercontent.com/u/1048598" height="13"/> Egnyte</a>
 
 - 💼 Former Android Team Leader at <a href="http://yanosik.pl"><img src="https://store-images.s-microsoft.com/image/apps.64452.9007199266246507.496a208e-e5cb-4f57-bfad-e38254bf9348.0f9b4f35-0a32-4cdd-807c-95f37a3bd940?mode=scale&q=90&h=300&w=300" height="13"/> Yanosik</a>  
 
@@ -35,13 +35,10 @@
 
 ## Github Stats  
 
-<a href="https://github.com/Kosert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=9f9f9f" />
-</a>
-<a href="https://github.com/Kosert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/Kosert#gh-dark-mode-only)
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Kosert#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues&theme=github_dark&rank_icon=github#gh-dark-mode-only)](https://github.com/Kosert#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/Kosert#gh-light-mode-only)
 
 <br/>  
 
