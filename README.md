@@ -14,10 +14,7 @@ Most of my projects can be found on my personal website: [kosert.me](https://kos
 <img src="https://komarev.com/ghpvc/?username=Kosert&&style=flat-square" />
 </div>  
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/Kosert#gh-dark-mode-only)
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosert&hide_border=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Kosert#gh-light-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues&theme=github_dark&rank_icon=github#gh-dark-mode-only)](https://github.com/Kosert#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosert&show_icons=true&count_private=true&hide_border=true&hide=contribs,issues&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/Kosert#gh-light-mode-only)
+[![GitHub stats](https://githubcard.com/kosert.svg?d=3FBhRSRy)](https://github.com/Kosert#gh-light-mode-only)
 
 ## Connect with me  
 <div align="center">
