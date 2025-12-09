@@ -15,7 +15,7 @@ Most of my projects can be found on my personal website: [kosert.me](https://kos
 </div>  
 
 [![GitHub stats](https://githubcard.com/kosert.svg?d=3FBhRSRy)](https://github.com/Kosert#gh-light-mode-only)
-[![GitHub stats](https://githubcard.com/kosert.svg?d=3FBhRSRy)](https://github.com/Kosert#gh-dark-mode-only)
+[![GitHub stats](https://githubcard.com/kosert.svg?d=G1ad1CU8)](https://github.com/Kosert#gh-dark-mode-only)
 
 ## Connect with me  
 <div align="center">
