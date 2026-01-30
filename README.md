@@ -1,6 +1,6 @@
 ### Hello there
 
-I'm an average TypeScript fan and a proffessional Kotlin enjoyer. On my profile you may find:
+I'm an average TypeScript fan and a professional Kotlin enjoyer. On my profile you may find:
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="20" /> Kotlin Stuff - from Android apps and libs to Discord bots
 - <img align="center" src="https://cdn.simpleicons.org/gamedeveloper" height="20" /> Game dev - couple of browser games made with <img align="center" src="https://cdn.simpleicons.org/typescript" height="16" /> TypeScript and [🚀Phaser](https://phaser.io/)
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="20" /> WebDev - my personal website and some other web projects, mainly in node.js
